@@ -8,11 +8,11 @@
 
 🛠 Skills & Tools:
 
-    Languages: JavaScript, Python, Java, HTML, CSS
+  Languages: JavaScript, Python, Java, HTML, CSS
     
-    Technologies: React, Next.js, Node.js, Express.js, MongoDB, AWS, SQL
+  Technologies: React, Next.js, Node.js, Express.js, MongoDB, AWS, SQL
     
-    Tools: Git, Postman, Pivotal Tracker, Figma
+  Tools: Git, Postman, Pivotal Tracker, Figma
 
 🚀 Seeking opportunities to innovate and create impact through technology.
 
