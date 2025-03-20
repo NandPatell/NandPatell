@@ -8,15 +8,16 @@
 
 🛠 Skills & Tools:
 
-    Languages: JavaScript, Python, Java, HTML, CSS
-      
-    Technologies: React, Next.js, Node.js, Express.js, MongoDB, AWS, SQL
-      
-    Tools: Git, Postman, Pivotal Tracker, Figma
+      Languages: JavaScript, Python, Java, HTML, CSS
+        
+      Technologies: React, Next.js, Node.js, Express.js, MongoDB, AWS, SQL
+        
+      Tools: Git, Postman, Pivotal Tracker, Figma
 
 🚀 Seeking opportunities to innovate and create impact through technology.
 
 📫 Let's connect!
 
 LinkedIn: https://www.linkedin.com/in/nandpatelll/
+
 Email: patelnand13204@gmail.com
