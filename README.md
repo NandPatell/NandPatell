@@ -3,10 +3,11 @@
   💻 Tech enthusiast with experience in innovative technology and software engineering.
   
   🎓 Currently pursuing a degree in Software Engineering at Salem State University.
-  
+
   ⚡ Passionate about Full-Stack Development, AI, Machine Learning, and Visualization.
 
 🛠 Skills & Tools:
+
   Languages: JavaScript, Python, Java, HTML, CSS
   
   Technologies: React, Next.js, Node.js, Express.js, MongoDB, AWS, SQL
